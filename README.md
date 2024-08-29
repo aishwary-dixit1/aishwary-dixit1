@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwary-dixit1&label=Profile%20views&color=0e75b6&style=flat" alt="aishwary-dixit1" /> </p>
 
-- 🌱 I’m currently learning **JetPack Compose**
+- 🌱 I’m currently learning **Kotlin for Android Development**
 
 - 📫 How to reach me **mr.dixit17@gmail.com**
 
