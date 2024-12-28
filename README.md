@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aishwary Dixit</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwary-dixit1&label=Profile%20views&color=0e75b6&style=flat" alt="aishwary-dixit1" /> </p>
 
-- 🌱 I’m currently learning **Kotlin for Android Development**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **mr.dixit17@gmail.com**
 
