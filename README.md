@@ -1,36 +1,211 @@
-<h1 align="center">Hi 👋, I'm Aishwary Dixit</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Hey!+I'm+Aishwary+Dixit+%F0%9F%91%8B;Software+Engineer+%7C+Frontend+Specialist;React+%7C+TypeScript+%7C+Node.js;LeetCode+Knight+%E2%9A%94%EF%B8%8F+%7C+DSA+Enthusiast" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aishwary-dixit1&label=Profile%20views&color=0e75b6&style=flat" alt="aishwary-dixit1" /> </p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380"/>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aishwary-dixit1" alt="aishwary-dixit1" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on [Finance-Dashboard](https://github.com/aishwary-dixit1/Finance-Dashboard)
+<div align="center">
 
-- 🌱 I’m currently learning **System Design**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwary-dixit-010759281/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=todoist&logoColor=white)](https://aishwarydixit.in)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.dixit17@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aishwary-dixit1)
+![Profile Views](https://komarev.com/ghpvc/?username=aishwary-dixit1&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)
 
-- 👨‍💻 All of my projects are available at [https://aishwarydixit.in/](https://aishwarydixit.in/)
+</div>
 
-- 📫 How to reach me **mr.dixit17@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11w7U98YQRFxlfUkFAPfdbwBjssPFTuLn/view](https://drive.google.com/file/d/11w7U98YQRFxlfUkFAPfdbwBjssPFTuLn/view)
+## 🧑‍💻 About Me
 
-- ⚡ Fun fact **I'm a human**
+<img align="right" alt="Coding" width="340" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aishwary-dixit-010759281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aishwary-dixit-010759281" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/aishwarydixit" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aishwarydixit" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/4o4_stillnotfound" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="4o4_stillnotfound" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aishwary_dixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aishwary_dixit" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aishwarydixit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aishwarydixit" height="30" width="40" /></a>
+- 🏫 **B.Tech CSE** @ **IIIT Ranchi** — GPA: **8.85 / 10**
+- 💼 **SDE Intern** @ **Syncliner Software Platforms** *(6 months)*
+- 🏆 **LeetCode Knight** — Peak Rating **1858** | Top **5% globally**
+- 🥈 **CodeChef 3-Star** — Peak Rating **1764**
+- 🌍 **Global Rank #102** in CodeChef Starters 156 *(35,000+ participants)*
+- 🧩 Solved **400+** DSA problems across platforms
+- 🎙️ **GDGoC Organizer** @ IIIT Ranchi — community of **550+ students**
+- 📖 **Currently mastering:** System Design & Distributed Systems
+- 🌐 **Portfolio:** [aishwarydixit.in](https://aishwarydixit.in)
+- ⚡ **Fun fact:** I push to prod only after 90% test coverage. Non-negotiable. 😄
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🧪 Testing & Tools
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![MSW](https://img.shields.io/badge/Mock_Service_Worker-FF6A33?style=for-the-badge&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 💼 Experience
+
+### 🏢 Syncliner Software Platforms Pvt. Ltd. &nbsp;`Jun 2025 – Dec 2025`
+**Software Development Engineer Intern — Frontend** &nbsp;*(Letter of Recommendation)*
+
+- 📊 Owned end-to-end development of an **analytics dashboard** displaying project KPIs — task completion, velocity & burndown charts using **ReactJS** and **Recharts** with date-range and team-member filters
+- 🏗️ Architected a typed state management layer using **Redux Toolkit Query** + **TypeScript**; integrated **Mock Service Worker (MSW)** for isolated frontend testing — accelerating dev cycles without backend dependency
+- 🎨 Implemented pixel-perfect UI from **Figma** designs using **Material UI**, building **30–40 reusable components** with role-based routing, multi-step form validation, skeleton loaders & toast error handling
+- ✅ Established **CI/CD quality gates** at 85% test coverage; authored unit & integration tests achieving **90% code coverage** — zero-regression deployments across the entire frontend codebase
+
+---
+
+## 🚀 Featured Projects
+
+### 💬 Web-Chat — Real-time Messaging App
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aishwary-dixit1)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-6E40C9?style=for-the-badge&logo=vercel&logoColor=white)](https://aishwarydixit.in)
+
+> **Stack:** React.js · TailwindCSS · Daisy UI · Node.js · Socket.io · JWT · MongoDB
+
+- ⚡ Built real-time messaging with **Socket.io** — online/offline presence indicators using event-driven component rendering
+- 🧠 Used **React Context + useReducer** for global auth state with predictable state transitions
+- 📱 Designed a responsive, mobile-first interface with **TailwindCSS**; structured into clean stateful & stateless components
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aishwary-dixit1&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aishwary-dixit1&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" height="170"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aishwary-dixit1&theme=tokyonight&hide_border=true" width="620"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishwary-dixit1&show_icons=true&locale=en&layout=compact" alt="aishwary-dixit1" /></p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aishwary-dixit1&theme=tokyo-night&hide_border=true&area=true" width="900"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aishwary-dixit1&show_icons=true&locale=en" alt="aishwary-dixit1" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aishwary-dixit1&" alt="aishwary-dixit1" /></p>
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aishwary-dixit1&theme=tokyonight&no-frame=true&column=7&margin-w=10" width="900"/>
+</div>
+
+<br/>
+
+| 🏅 | Achievement | Details |
+|---|---|---|
+| ⚔️ | **LeetCode Knight** | Peak rating **1858** — Top **5% globally** |
+| 🥈 | **CodeChef 3-Star** | Peak rating **1764** |
+| 🌍 | **Global Rank #102** | CodeChef Starters 156 — 35,000+ participants |
+| 💼 | **SDE Intern** | 6 months @ Syncliner — **90% test coverage** & Letter of Recommendation |
+| 🎙️ | **GDGoC Organizer** | Led **10+ events**, **20+ team members**, **550+ students** impacted |
+| 🎓 | **IIIT Ranchi** | B.Tech CSE — GPA **8.85 / 10** |
+
+---
+
+## ⚔️ Competitive Programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight_🏅_|_Peak_1858-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aishwary-dixit1/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3★_|_Peak_1764_|_Global_Rank_102-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aishwary_dixit)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```typescript
+const aishwary = {
+  name:     "Aishwary Dixit",
+  college:  "IIIT Ranchi",
+  gpa:      "8.85 / 10",
+  role:     "Software Engineer | Frontend Specialist",
+
+  languages: ["TypeScript", "JavaScript", "C++", "Java", "Python"],
+
+  stack: {
+    frontend: ["React", "Redux Toolkit Query", "TailwindCSS", "MUI", "Recharts"],
+    backend:  ["Node.js", "Express.js", "Socket.io", "MongoDB"],
+    testing:  ["Jest", "MSW", "React Testing Library"],
+    tools:    ["Git", "Figma", "Postman", "Vite", "Webpack"],
+  },
+
+  currentlyLearning: ["System Design", "Distributed Systems", "Microservices"],
+
+  achievements: {
+    leetcode:   "Knight | Peak 1858 | Top 5% globally",
+    codechef:   "3-Star | Peak 1764 | Global Rank #102",
+    internship: "6 months @ Syncliner | 90% test coverage | LOR",
+    community:  "GDGoC Organizer | 10+ events | 550+ students",
+  },
+
+  goal2025: "Master System Design & crack a top-tier SWE role 🚀",
+  funFact:  "90% test coverage before every push. I don't make the rules... wait, I do. 😄",
+};
+```
+
+---
+
+## 🎙️ Leadership
+
+### Google Developer Groups on Campus — IIIT Ranchi &nbsp;`Aug 2025 – Present`
+**GDGoC Organizer**
+
+- 🚀 Spearheaded technical growth of **550+ students** through workshops on Web Dev & Cloud with live-coded demos
+- 🤝 Managed a cross-functional team of **20+ members** to orchestrate **10+ events** including DevSpark & hackathons
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aishwary-dixit1/aishwary-dixit1/output/snake.svg" alt="Snake animation"/>
+</div>
+
+---
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/aishwary-dixit1">Aishwary Dixit</a> — crafted with ❤️ and endless ☕</i>
+</div>
