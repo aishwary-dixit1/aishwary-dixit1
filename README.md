@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Hey!+I'm+Aishwary+Dixit+%F0%9F%91%8B;Software+Engineer+%7C+Frontend+Specialist;React+%7C+TypeScript+%7C+Node.js;LeetCode+Knight+%E2%9A%94%EF%B8%8F+%7C+DSA+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Hey!+I'm+Aishwary+Dixit+%F0%9F%91%8B;Software+Engineer;Java+%7C+Spring-boot+%7C+Node.js+%7C+React;LeetCode+Knight+%E2%9A%94%EF%B8%8F+%7C+3-Star+in+CodeChef" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -26,11 +26,11 @@
 
 - 🏫 **B.Tech CSE** @ **IIIT Ranchi** — GPA: **8.85 / 10**
 - 💼 **SDE Intern** @ **Syncliner Software Platforms** *(6 months)*
-- 🏆 **LeetCode Knight** — Peak Rating **1858** | Top **5% globally**
-- 🥈 **CodeChef 3-Star** — Peak Rating **1764**
+- 🏆 **LeetCode Knight** — Peak Rating **1964** | Top **3% globally**
+- 🥈 **CodeChef 3-Star** — Peak Rating **1777**
 - 🌍 **Global Rank #102** in CodeChef Starters 156 *(35,000+ participants)*
-- 🧩 Solved **400+** DSA problems across platforms
-- 🎙️ **GDGoC Organizer** @ IIIT Ranchi — community of **550+ students**
+- 🧩 Solved **600+** DSA problems across platforms
+- 🎙️ **GDGoC Organizer** @ IIIT Ranchi — community of **750+ students**
 - 📖 **Currently mastering:** System Design & Distributed Systems
 - 🌐 **Portfolio:** [aishwarydixit.in](https://aishwarydixit.in)
 - ⚡ **Fun fact:** I push to prod only after 90% test coverage. Non-negotiable. 😄
@@ -84,12 +84,16 @@
 ## 💼 Experience
 
 ### 🏢 Syncliner Software Platforms Pvt. Ltd. &nbsp;`Jun 2025 – Dec 2025`
-**Software Development Engineer Intern — Frontend** &nbsp;*(Letter of Recommendation)*
+**Software Development Engineer Intern** &nbsp;*[Letter of Recommendation](https://drive.google.com/file/d/1n302BEMrZZJ4ALXicUoZxeVhP5H8Fd_c/view)*
 
-- 📊 Owned end-to-end development of an **analytics dashboard** displaying project KPIs — task completion, velocity & burndown charts using **ReactJS** and **Recharts** with date-range and team-member filters
-- 🏗️ Architected a typed state management layer using **Redux Toolkit Query** + **TypeScript**; integrated **Mock Service Worker (MSW)** for isolated frontend testing — accelerating dev cycles without backend dependency
-- 🎨 Implemented pixel-perfect UI from **Figma** designs using **Material UI**, building **30–40 reusable components** with role-based routing, multi-step form validation, skeleton loaders & toast error handling
-- ✅ Established **CI/CD quality gates** at 85% test coverage; authored unit & integration tests achieving **90% code coverage** — zero-regression deployments across the entire frontend codebase
+- Engineered an event-driven backend architecture using OOP and the Factory Design Pattern to process
+GitHub Webhooks, synchronizing data updates via Firebase mutations
+- Developed high-concurrency Spring Boot REST APIs and integrated Razorpay payment gateways;
+implemented idempotency keys to handle webhooks and prevent duplicate transaction processing
+- Orchestrated a robust frontend state management system using TypeScript and Redux Toolkit Query;
+integrated Mock Service Worker (MSW) to decouple frontend testing, accelerating development cycles by 60%
+- Established strict CI/CD quality gates preventing builds below 85% test coverage; authored extensive
+unit/integration tests to achieve 90% code coverage, ensuring zero-regression deployments
 
 ---
 
@@ -134,11 +138,11 @@
 
 | 🏅 | Achievement | Details |
 |---|---|---|
-| ⚔️ | **LeetCode Knight** | Peak rating **1858** — Top **5% globally** |
-| 🥈 | **CodeChef 3-Star** | Peak rating **1764** |
+| ⚔️ | **LeetCode Knight** | Peak rating **1964** — Top **3% globally** |
+| 🥈 | **CodeChef 3-Star** | Peak rating **1777** |
 | 🌍 | **Global Rank #102** | CodeChef Starters 156 — 35,000+ participants |
-| 💼 | **SDE Intern** | 6 months @ Syncliner — **90% test coverage** & Letter of Recommendation |
-| 🎙️ | **GDGoC Organizer** | Led **10+ events**, **20+ team members**, **550+ students** impacted |
+| 💼 | **SDE Intern** | 6 months @ Syncliner — **[Letter of Recommendation](https://drive.google.com/file/d/1n302BEMrZZJ4ALXicUoZxeVhP5H8Fd_c/view)** |
+| 🎙️ | **GDGoC Organizer** | Led **10+ events**, **20+ team members**, **750+ students** impacted |
 | 🎓 | **IIIT Ranchi** | B.Tech CSE — GPA **8.85 / 10** |
 
 ---
@@ -147,8 +151,8 @@
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Knight_🏅_|_Peak_1858-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aishwary-dixit1/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-3★_|_Peak_1764_|_Global_Rank_102-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aishwary_dixit)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight_🏅_|_Peak_1964-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aishwary-dixit1/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3★_|_Peak_1777_|_Global_Rank_102-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aishwary_dixit)
 
 </div>
 
@@ -167,7 +171,7 @@ const aishwary = {
 
   stack: {
     frontend: ["React", "Redux Toolkit Query", "TailwindCSS", "MUI", "Recharts"],
-    backend:  ["Node.js", "Express.js", "Socket.io", "MongoDB"],
+    backend:  ["Spring Boot", "Node.js", "Express.js", "Socket.io", "MongoDB"],
     testing:  ["Jest", "MSW", "React Testing Library"],
     tools:    ["Git", "Figma", "Postman", "Vite", "Webpack"],
   },
@@ -175,9 +179,9 @@ const aishwary = {
   currentlyLearning: ["System Design", "Distributed Systems", "Microservices"],
 
   achievements: {
-    leetcode:   "Knight | Peak 1858 | Top 5% globally",
-    codechef:   "3-Star | Peak 1764 | Global Rank #102",
-    internship: "6 months @ Syncliner | 90% test coverage | LOR",
+    leetcode:   "Knight | Peak 1964 | Top 3% globally",
+    codechef:   "3-Star | Peak 1777 | Global Rank #102",
+    internship: "6 months @ Syncliner | Contributed 50,000+ lines of code | LOR",
     community:  "GDGoC Organizer | 10+ events | 550+ students",
   },
 
