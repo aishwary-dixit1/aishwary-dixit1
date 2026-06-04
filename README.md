@@ -27,7 +27,7 @@
 - 🏫 **B.Tech CSE** @ **IIIT Ranchi** — GPA: **8.85 / 10**
 - 💼 **SDE Intern** @ **Syncliner Software Platforms** *(6 months)*
 - 🏆 **LeetCode Knight** — Peak Rating **1964** | Top **3% globally**
-- 🥈 **CodeChef 3-Star** — Peak Rating **1777**
+- 🥈 **CodeChef 4-Star** — Peak Rating **1802**
 - 🌍 **Global Rank #102** in CodeChef Starters 156 *(35,000+ participants)*
 - 🧩 Solved **600+** DSA problems across platforms
 - 🎙️ **GDGoC Organizer** @ IIIT Ranchi — community of **550+ students**
@@ -169,7 +169,7 @@
 | 🏅 | Achievement | Details |
 |---|---|---|
 | ⚔️ | **LeetCode Knight** | Peak rating **1964** — Top **3% globally** |
-| 🥈 | **CodeChef 3-Star** | Peak rating **1777** |
+| 🥈 | **CodeChef 4-Star** | Peak rating **1802** |
 | 🌍 | **Global Rank #102** | CodeChef Starters 156 — 35,000+ participants |
 | 🏅 | **AlgoUniversity Fellowship** | Top 20% among 20,000+ participants |
 | 💼 | **SDE Intern** | 6 months @ Syncliner — **[Letter of Recommendation](https://drive.google.com/file/d/1n302BEMrZZJ4ALXicUoZxeVhP5H8Fd_c/view)** |
@@ -183,7 +183,7 @@
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Knight_🏅_|_Peak_1964-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/aishwary-dixit1/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-3★_|_Peak_1777_|_Global_Rank_102_in_Starters_156-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aishwary_dixit)
+[![CodeChef](https://img.shields.io/badge/CodeChef-4★_|_Peak_1802_|_Global_Rank_102_in_Starters_156-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aishwary_dixit)
 
 </div>
 
@@ -213,7 +213,7 @@ const aishwary = {
 
   achievements: {
     leetcode:        "Knight | Peak 1964 | Top 3% globally",
-    codechef:        "3-Star | Peak 1777 | Global Rank #102",
+    codechef:        "4-Star | Peak 1802 | Global Rank #102",
     algoUniversity:  "Top 20% | 20,000+ participants",
     internship:      "6 months @ Syncliner | 20+ PR merge in production | Star perfomer",
     community:       "GDGoC Organizer | 10+ events | 550+ students",
